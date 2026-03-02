@@ -6,6 +6,7 @@
     "vitest.explorer",
     "connor4312.nodejs-testing",
     "eamodio.gitlens",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "anthropic.claude-code"
   ]
 }
